@@ -38,10 +38,10 @@ class Bot:
             password_input = browser.find_element_by_css_selector("input[name='password']")
 
 
-            username_input.send_keys("07082109611")
+            username_input.send_keys("######")
             sleep(3)
 
-            password_input.send_keys("Joseph247$")
+            password_input.send_keys("#####")
 
             sleep(3)
 
